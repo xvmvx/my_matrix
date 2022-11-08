@@ -1,7 +1,7 @@
 #基于docker的矩阵图像
 
 
-详情见:[matrix2](https://github.com/xvmvx/docker-matrix2)
+详情见:[matrix2](https://github.com/xvmvx/docker-matrix-2)
 Dockerfile用于安装[matrix]开放式联合即时消息和VoIP通信服务器。
 
 - [compose](https://github.com/corpusops/setups.matrix)
